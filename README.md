@@ -46,5 +46,5 @@ Up to 4.5.1
 - Allocation of disk storage (CWE-770)
 
 ## Recommendation
-Sanitize input (version parameter) before writing output to file. 
+Sanitize input, version parameter.
 
